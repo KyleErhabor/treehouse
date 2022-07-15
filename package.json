@@ -12,7 +12,7 @@
 		"@iconify/svelte": "^2.2.1",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
-		"svelte": "^3.44.0"
+		"svelte": "^3.49.0"
 	},
 	"type": "module"
 }
